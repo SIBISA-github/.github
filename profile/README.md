@@ -27,7 +27,7 @@ Here are links to documentation of some of the learning paths that make up this 
 * [Cloud Computing Documentation](https://github.com/SIBISA-github/sibisa-be)
 
 ## Usage
-Get the app [here](https://drive.google.com/uc?export=download&id=18qhUjT0vGtwQ665TcCA1UzamvOGEzi7U) and install it using package installer
+Get the app [here](https://drive.google.com/uc?export=download&id=1C-Gdd818pPLYShlUusDKUbuuO-mkVbbM) and install it using package installer
 
 ## Feature
 ### Login and Register
